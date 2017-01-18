@@ -1,0 +1,92 @@
+{
+    "add-loan-section": {
+        "available": "available: !!!Not translated!!!",
+        "take-a-new-loan": "take-a-new-loan: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "back-accounts-section": {
+        "add-account": "add-account: !!!Not translated!!!",
+        "adding-accounts": "adding-accounts: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "company-info": {
+        "share-holders": {
+            "nationality": "nationality: !!!Not translated!!!",
+            "residency": "residency: !!!Not translated!!!",
+            "shares-owned": "shares-owned: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "title": "Informazioni sull' impresa"
+    },
+    "correct-info": {
+        "body+": "body+: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "dashboardResources": {
+        "client-id": "client-id: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "empty-state": {
+        "body": "body: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "help-section": {
+        "body": "body: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "loan-agreement": {
+        "download-button": "download-button: !!!Not translated!!!"
+    },
+    "loan-section": {
+        "cancellation": "cancellation: !!!Not translated!!!",
+        "early-repayment": "early-repayment: !!!Not translated!!!",
+        "head": "head: !!!Not translated!!!",
+        "loan-and-fee+": "loan-and-fee+: !!!Not translated!!!",
+        "missed-payment": "missed-payment: !!!Not translated!!!",
+        "next-payment": "next-payment: !!!Not translated!!!",
+        "paid": "paid: !!!Not translated!!!",
+        "remaining": "remaining: !!!Not translated!!!",
+        "repaid": "repaid: !!!Not translated!!!"
+    },
+    "navigation": {
+        "account-settings": "Impostazioni Account",
+        "additional-info": "Informazioni aggiuntive",
+        "company-info": "Informazioni sull'impresa",
+        "dashboard": "Cruscotto",
+        "personal-info": "Informazioni Personali"
+    },
+    "not-eligable-without-reason": {
+        "body+": "Ci dispiace, ma sfortunatamente non sei idoneo per il prestito. Se hai qualche domanda per favore contatta il nostro centralino al numero [012 - 3456 7890](tel:+01234567890)",
+        "subtitle": "Non idoneo per il prestito",
+        "title": "Non idoneo per il prestito"
+    },
+    "not-eligable-with-reason": {
+        "intro+": "Sfortunatamente non sei idoneo per il prestito. Le ragioni sono le seguenti: ",
+        "outro+": "Se hai qualche domanda per favore contatta il nostro centralino al numero [012 - 3456 7890](tel:+01234567890)",
+        "title": "Non idoneo per il prestito"
+    },
+    "progress-bar": {
+        "title": "Avanzamento"
+    },
+    "settings": {
+        "change-email": {
+            "body": "body: !!!Not translated!!!",
+            "btn-label": "btn-label: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "change-pin": {
+            "body": "body: !!!Not translated!!!",
+            "btn-label": "btn-label: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "delete-account-section": {
+            "body": "body: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "questions-section": {
+            "body": "body: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        }
+    },
+    "title": "Cruscotto"
+}

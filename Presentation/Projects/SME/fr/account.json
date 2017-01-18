@@ -1,0 +1,136 @@
+{
+    "changePincode": {
+        "step": {
+            "04": {
+                "buttonTekst": "Rendez-vous dans l'espace client",
+                "confirmationMessage": "",
+                "title": "Votre code secret a été mis à jour."
+            }
+        }
+    },
+    "forgotPincode": {
+        "phoneNumberVerification": "Vous avez demandé la réinitialisation de votre code secret. Utiliser le code {tancode} pour réinitialiser votre code secret.",
+        "step": {
+            "01": {
+                "description": "Avant de pouvoir réinitialiser votre code secret, veuillez saisir votre adresse email et votre date de naissance.",
+                "title": "Code secret oublié?"
+            },
+            "02": {
+                "description": "Afin de réinitialiser votre code secret, saisissez le code temporaire à 6 chiffres qui vous a été envoyé.",
+                "title": "Réinitialisation de votre code secret"
+            },
+            "03": {
+                "description": "Merci de saisir votre nouveau code secret.",
+                "reset-pin": "Réinitialiser votre code secret",
+                "title": "Réinitialiser votre code secret"
+            },
+            "04": {
+                "buttonTekst": "Aller à la page de connexion",
+                "confirmationMessage": "Aller à la page de connexion pour vous connecter avec votre nouveau code secret.",
+                "title": "Votre code secret a été mis à jour.",
+                "updated": "updated: !!!Not translated!!!"
+            }
+        },
+        "title": "title: !!!Not translated!!!"
+    },
+    "login": {
+        "clear": "clear: !!!Not translated!!!",
+        "forgot-pin": "Code secret oublié?",
+        "title": "Espace client"
+    },
+    "logout": {
+        "loggout-out-inactivity": "Suite à une inactivité trop longue, vous avez été déconnecté",
+        "login-again": "login-again: !!!Not translated!!!",
+        "see-you-again": "Nous espérons vous revoir bientôt. Vous ne souhaitiez vous déconnecter?",
+        "title": "title: !!!Not translated!!!",
+        "to-homepage": "to-homepage: !!!Not translated!!!",
+        "you-are-logged-out": "Vous vous êtes correctement déconnecté."
+    },
+    "step": {
+        "additional-information": {
+            "cta-label": "Etape suivante: signature du contrat de prêt",
+            "title": "Information supplémentaire",
+            "ubo": "Bénéficiaires ultimes de l'Entreprise"
+        },
+        "application-feedback": {
+            "body-text": "Votre demande de financement est en cours d'analyse. Vous receverez un email de confirmation dès que nos équipes auront validé votre demande. Dès que votre demande sera acceptée, vous receverez vos fonds sur le compte que vous avez choisi et vous pourrez retrouver le détail de votre prêt au sein de votre espace client.",
+            "btn-text": "Rendez-vous dans votre espace client",
+            "pageTitle": "pageTitle: !!!Not translated!!!",
+            "title": "Merci !!!"
+        },
+        "company-info": {
+            "note": "Les informations fournies seront vérifiées par nos équipes afin de valider votre identité.",
+            "title": "Information sur l'Entreprise"
+        },
+        "identity-document": {
+            "info": {
+                "title": "title: !!!Not translated!!!"
+            },
+            "title": "Document d'identité",
+            "upload": {
+                "back": "back: !!!Not translated!!!",
+                "button": "Télécharger une autre image",
+                "error": {
+                    "general": "Oops quelque chose s'est mal passé, merci de ré essayer plus tard.",
+                    "size": "Le fichier sélectionné est trop lourd (max 10Mo)",
+                    "type": "Le format du fichier sélectionné n'est pas accepté (pdf, png ou jpg uniquement)"
+                },
+                "front": "front: !!!Not translated!!!",
+                "intro+": "intro+: !!!Not translated!!!",
+                "preview-image": "preview-image: !!!Not translated!!!",
+                "requirements": {
+                    "extension": "extension: !!!Not translated!!!",
+                    "legible-text": "contient un texte lisible",
+                    "no-reflections": "n'a aucun reflet",
+                    "proper-lighting": "a une luminosité suffisante",
+                    "title": "Assurez-vous que l'image "
+                },
+                "subtitle": "pdf, png ou jpg",
+                "title": "Télécharger votre pièce d'identité",
+                "types": {
+                    "drivers-license": "drivers-license: !!!Not translated!!!",
+                    "id-card": "id-card: !!!Not translated!!!",
+                    "passport": "passport: !!!Not translated!!!",
+                    "residency-permit": "residency-permit: !!!Not translated!!!",
+                    "select-one": "select-one: !!!Not translated!!!"
+                }
+            }
+        },
+        "loan-agreement": {
+            "failed": {
+                "body+": "body+: !!!Not translated!!!",
+                "cta": "cta: !!!Not translated!!!",
+                "title": "title: !!!Not translated!!!",
+                "what-is-infocert": {
+                    "body": "body: !!!Not translated!!!",
+                    "title": "title: !!!Not translated!!!"
+                }
+            },
+            "infocert": {
+                "body": "body: !!!Not translated!!!",
+                "cta": "cta: !!!Not translated!!!",
+                "title": "title: !!!Not translated!!!"
+            },
+            "titleFailed": "titleFailed: !!!Not translated!!!"
+        },
+        "personal-info": {
+            "title": "Informations personnelles"
+        },
+        "personal-info-detail": {
+            "title": "Informations personnelles"
+        },
+        "ubo": {
+            "add": "add: !!!Not translated!!!",
+            "cta-label": "cta-label: !!!Not translated!!!",
+            "form-subtitle": "form-subtitle: !!!Not translated!!!",
+            "form-title": "form-title: !!!Not translated!!!",
+            "more-ubos": "more-ubos: !!!Not translated!!!",
+            "nobody-more-than-25": "nobody-more-than-25: !!!Not translated!!!",
+            "only-one": "only-one: !!!Not translated!!!",
+            "remove": "remove: !!!Not translated!!!",
+            "shares-by-you": "shares-by-you: !!!Not translated!!!",
+            "shares-placeholder": "shares-placeholder: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        }
+    }
+}

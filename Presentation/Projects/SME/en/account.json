@@ -1,0 +1,136 @@
+{
+    "changePincode": {
+        "step": {
+            "04": {
+                "buttonTekst": "Proceed to dashboard",
+                "confirmationMessage": "",
+                "title": "Your pin code has been updated."
+            }
+        }
+    },
+    "forgotPincode": {
+        "phoneNumberVerification": "You requested a PIN code reset. Use the code {tancode} to reset your PIN code.",
+        "step": {
+            "01": {
+                "description": "Before you can reset your PIN code we need your email and date of birth.",
+                "title": "Forgot your PIN code?"
+            },
+            "02": {
+                "description": "Before you can reset your PIN code. Please verify yourself by entering the 6 digit TAN code.",
+                "title": "Reset your PIN code"
+            },
+            "03": {
+                "description": "Please enter a new 6 digit PIN code",
+                "reset-pin": "Reset PIN code",
+                "title": "Reset your 6 digit PIN code"
+            },
+            "04": {
+                "buttonTekst": "Proceed to login",
+                "confirmationMessage": "Go to the login page to login with your newly chosen PIN code.",
+                "title": "Your pin code has been updated.",
+                "updated": "PIN code updated"
+            }
+        },
+        "title": "Forgot PIN code"
+    },
+    "login": {
+        "clear": "clear PIN",
+        "forgot-pin": "Forgot your PIN code?",
+        "title": "Log in"
+    },
+    "logout": {
+        "loggout-out-inactivity": "You have been logged out due to inactivity",
+        "login-again": "Login again",
+        "see-you-again": "We hope to see you again soon. Didn't you want to logout?",
+        "title": "Logged out",
+        "to-homepage": "Or go to the homepage",
+        "you-are-logged-out": "You are now logged out."
+    },
+    "step": {
+        "additional-information": {
+            "cta-label": "Go to next step: add owners",
+            "title": "Additional information",
+            "ubo": "Ultimate beneficial owner"
+        },
+        "application-feedback": {
+            "body-text": "Your loan application is being reviewed. You will receive an email when it is reviewed by our personel. When the application is approved, you receive the money on your bank account and you see the loan appear on your dashboard.",
+            "btn-text": "Go to your dashboard",
+            "pageTitle": "Thank you for your application",
+            "title": "Application completed"
+        },
+        "company-info": {
+            "note": "Please note, information you supply should for validation puposes be identical to Infogreffe / societe.",
+            "title": "Company Information"
+        },
+        "identity-document": {
+            "info": {
+                "title": "ID information"
+            },
+            "title": "Identity document",
+            "upload": {
+                "back": "Picture back",
+                "button": "Upload different picture",
+                "error": {
+                    "general": "Something went wrong, please try again later",
+                    "size": "The selected file is to big (max 10mb)",
+                    "type": "The selected file does not have an accepted filetype (pdf, png or jpg)"
+                },
+                "front": "Picture front",
+                "intro+": "Before a loan can be granted we are required by law validate your identity. To do so we kindly ask you to upload X document(s) with **clearly legible text** and a **clear picture** out of the four documents listed below:",
+                "preview-image": "Preview image",
+                "requirements": {
+                    "extension": "A jpg, png or pdf extension",
+                    "legible-text": "Legible text",
+                    "no-reflections": "No reflections",
+                    "proper-lighting": "Proper lighting",
+                    "title": "Make sure the picture has"
+                },
+                "subtitle": "pdf, png or jpg",
+                "title": "Upload X identity document(s)",
+                "types": {
+                    "drivers-license": "Drivers license",
+                    "id-card": "Identity card",
+                    "passport": "Passport",
+                    "residency-permit": "Residency permit",
+                    "select-one": "Please select a document type"
+                }
+            }
+        },
+        "loan-agreement": {
+            "failed": {
+                "body+": "Unfortunately the loan agreement is not signed or stored at Infocert. We ask you to follow the process again. If this problem keeps happening, please contact the help desk: [{phonelabel}](tel:{phonevalue})",
+                "cta": "Go to InfoCert and sign the loan agreement",
+                "title": "Something went wrong signing loan agreement",
+                "what-is-infocert": {
+                    "body": "Infocert will store the signed agreement in a secure and seperate environment. Storing the loan agreement at a third party ensures the integrity of the document. Of course you can always save a local copy for yourself for reference later. You can recognize this by the following logo:",
+                    "title": "What is InfoCert?"
+                }
+            },
+            "infocert": {
+                "body": "You're about to go to InfoCert to sign the loan agreement. Infocert will store the signed agreement in a secure and seperate environment. Storing the loan agreement at a third party ensures the integrity of the document. Of course you can always save a local copy for yourself for reference later. You can recognize this by the following logo:",
+                "cta": "Go to infocert and sign the loan agreement",
+                "title": "Loan agreement"
+            },
+            "titleFailed": "Something went wrong signing loan agreement"
+        },
+        "personal-info": {
+            "title": "Personal Information"
+        },
+        "personal-info-detail": {
+            "title": "Personal Detail Information"
+        },
+        "ubo": {
+            "add": "add owner",
+            "cta-label": "Go to next step: sign the loan agreement",
+            "form-subtitle": "Only owners with 25% shares or more",
+            "form-title": "Add another owner",
+            "more-ubos": "I am one of the owners with 25% or more shares",
+            "nobody-more-than-25": "None of the owners own more than 25% of the shares",
+            "only-one": "I am the only owner of this company",
+            "remove": "remove owner",
+            "shares-by-you": "Shares owned by you",
+            "shares-placeholder": "as percentage (min. 25%)",
+            "title": "Share holder(s)"
+        }
+    }
+}

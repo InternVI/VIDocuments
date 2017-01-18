@@ -1,0 +1,114 @@
+{
+    "additionalInformation": {
+        "emptyGoodsToBannedCountry": "emptyGoodsToBannedCountry: !!!Not translated!!!",
+        "emptyPaymentsToBannedCountry": "emptyPaymentsToBannedCountry: !!!Not translated!!!",
+        "emptyProductsOrServicesToBannedCountry": "emptyProductsOrServicesToBannedCountry: !!!Not translated!!!",
+        "industrySectorIsEmpty": "Per favore inserisci un settore industriale valido",
+        "invalidnetProfit": "Per favore inserisci un profitto netto valido ",
+        "invalidSalesVolume": "Per favore inserisci un volume di vendite positivo",
+        "numberOfEmployeesIsEmpty": "Per favore inserisci un numero valido di dipendenti",
+        "prevalentWorkingAreaIsEmpty": "Per favore inserisci un'area di lavoro prevalente valida",
+        "reasonForLoanIsEmpty": "Per favore inserisci un motivo valido per il prestito",
+        "sourceOfFundIsEmpty": "Per favore inserisci una valide sorgente di capitale"
+    },
+    "calculator": {
+        "amount": "Il tuo prestito deve essere compreso tra &euro;3000 e &euro;100000."
+    },
+    "choosePinCode": {
+        "pincodeInvalid": "Il codice Pin deve avere 6 cifre",
+        "pincodeInvalidDoesNotMatchRepeat": "I codici Pin inseriti non sono uguali",
+        "pincodeInvalidSameAsBirthdate": "Il codice Pin non può essere uguale alla tua data di nascita",
+        "pincodeInvalidSequence": "Il codice Pin non può contenere numeri in sequenza."
+    },
+    "companyInformation": {
+        "chamberOfCommerceNumberIsInvalid": "Per favore inserisci un numero di iscrizione al REA valido",
+        "invalidAddress": "Gli indirizzi e-mail non sono ammessi",
+        "legalFormIsEmpty": "Per favore inserisci una  ragione giuridica valida",
+        "legalNameIsEmpty": "Per favore inserisci la denominazione legale valida",
+        "phoneNumberNameIsEmpty": "Per favore inserisci un numero di telefono valido",
+        "vatNumberIsInvalid": "Per favore inserisci una Partita IVA valida"
+    },
+    "disclaimer": {
+        "authorized": "Devi essere autorizzato a chiedere un prestito per poter procedere",
+        "thirdParties": "Devi accettare di concedere l'accesso di terze parti ai tuoi dati per poter procedere"
+    },
+    "global": {
+        "addressIsEmpty": "Per favore inserisci  un indirizzo valido",
+        "cityIsEmpty": "Per favore inserisci una città corretta",
+        "countryIsEmpty": "Per favore inserisci un Paese valido",
+        "dateDayIsInvalid": "Per favore inserisci un giorno valido",
+        "dateIsInvalid": "Per favore inserisci una data valida",
+        "dateMonthIsInvalid": "Per favore inserisci un mese valido",
+        "dateYearIsInvalid": "Per favore inserisci un anno valido",
+        "emailAddressIsInvalid": "Per favore inserisci un indirizzo email valido",
+        "fillOutAllTheFields": "Per favore compila tutti i campi.",
+        "formContainsErrors": "Il modulo contiene errori",
+        "houseNumberIsEmpty": "Per favore inserisci un numero di casa",
+        "invalidCountry": "Per favore inserisci un Paese valido",
+        "invalidLocationCountry": "L'indirizzo della società non è valido",
+        "invalidLocationPostalCode": "Il CAP non è valido",
+        "mobilePhoneNumberIsInvalid+": "Per favore inserisci un numero di telefono mobile valido",
+        "phoneNumberIsInvalid": "Per favore inserisci un numero di telefono valido",
+        "postalCodeIsInvalid": "Per favore inserisci un CAP valido",
+        "privacyDisclaimerNotAccepted": "privacyDisclaimerNotAccepted: !!!Not translated!!!",
+        "provinceIsEmpty": "provinceIsEmpty: !!!Not translated!!!",
+        "required": "Questo è un campo obbligatorio",
+        "termsNotAccepted": "termsNotAccepted: !!!Not translated!!!",
+        "uboIsNotAnAdult": "Ubo deve essere di un adulto",
+        "valueNotEmpty": "valueNotEmpty: !!!Not translated!!!"
+    },
+    "login": {
+        "clientIdIsInvalid": "Per favore inserisci un Codice Cliente valido",
+        "Events": {
+            "ClientPermissionsRevoked": "Accesso all'Area Clienti Bloccato"
+        },
+        "Messages": {
+            "ClientIdRequired": "Per favore inserisci un Codice Cliente valido",
+            "InvalidUsernameOrPassword": "La combinazione di Codice Cliente, data di nascita e Codice PIN non corrisponde."
+        },
+        "Scopes": {}
+    },
+    "notes": {
+        "categoryEmpty": "Per favore seleziona una categoria",
+        "messageEmpty": "Per favore inserisci un messaggio"
+    },
+    "personalInformation": {
+        "cityOfBirthIsEmpty": "Per favore inserisci la tua città di nascita",
+        "countryOfBirthIsEmpty": "Per favore inserisci il tuo Paese di nascita",
+        "firstnameIsEmpty": "Per favore inserisci il tuo Cognome",
+        "genderIsEmpty": "Per favore scegli il genere",
+        "invalidFiscalCode": "invalidFiscalCode: !!!Not translated!!!",
+        "lastnameIsEmpty": "Per favore inserisci il tuo Nome",
+        "nationalityIsEmpty": "Per favore inserisci la tua  nazionalità",
+        "notAnAdult": "Solo gli adulti possono richiedere un prestito.",
+        "notLegalRepresentative": "Siamo spiacenti ma non siamo in grado di operare la vostra richiesta, il processo di richiesta di prestito immediato è riservato solo ai clienti con rappresentante legale",
+        "noValidFiscalCode": "noValidFiscalCode: !!!Not translated!!!",
+        "roleInCompanyIsEmpty": "roleInCompanyIsEmpty: !!!Not translated!!!",
+        "titleIsEmpty": "Per favore scegli un titolo"
+    },
+    "phoneVerification": {
+        "tanIsInvalid": "Codice TAN non corretto",
+        "tanLength": "Per favore inserire un codice TAN di 6 cifre"
+    },
+    "registration": {
+        "termsNotAccepted": "termsNotAccepted: !!!Not translated!!!"
+    },
+    "ubo": {
+        "InvalidAmountOwnedShares": "Per favore inserisci una quantità valida di azioni possedute. La quantità totale di quote non può essere più del 100%.",
+        "invalidOwnedShares": "Per favore inserisci un importo valido di azioni possedute"
+    },
+    "updatePinCode": {
+        "pinCodeInvalidSameAsPrevious": "Il tuo codice Pin non può essere uguale a quello precedente"
+    },
+    "uploadIdentityDocument": {
+        "cardnumberIsEmpty": "Non hai inserito il numero del documento.",
+        "countryOfIssueIsEmpty": "Non hai inserito la nazione di emissione.",
+        "dateInvalid": "Per favore inserisci una data corretta.",
+        "documentIsExpired": "Il Documento è scaduto.",
+        "fileTypeBackNotAllowed": "fileTypeBackNotAllowed: !!!Not translated!!!",
+        "fileTypeFrontNotAllowed": "fileTypeFrontNotAllowed: !!!Not translated!!!",
+        "issuedDateAfterExpirationDate": "issuedDateAfterExpirationDate: !!!Not translated!!!",
+        "issuedDateInTheFuture": "issuedDateInTheFuture: !!!Not translated!!!",
+        "townOfIssueIsEmpty": "Non hai inserito la Città di emissione."
+    }
+}

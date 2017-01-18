@@ -1,0 +1,114 @@
+{
+    "additionalInformation": {
+        "emptyGoodsToBannedCountry": "emptyGoodsToBannedCountry: !!!Not translated!!!",
+        "emptyPaymentsToBannedCountry": "emptyPaymentsToBannedCountry: !!!Not translated!!!",
+        "emptyProductsOrServicesToBannedCountry": "emptyProductsOrServicesToBannedCountry: !!!Not translated!!!",
+        "industrySectorIsEmpty": "industrySectorIsEmpty: !!!Not translated!!!",
+        "invalidnetProfit": "invalidnetProfit: !!!Not translated!!!",
+        "invalidSalesVolume": "invalidSalesVolume: !!!Not translated!!!",
+        "numberOfEmployeesIsEmpty": "numberOfEmployeesIsEmpty: !!!Not translated!!!",
+        "prevalentWorkingAreaIsEmpty": "prevalentWorkingAreaIsEmpty: !!!Not translated!!!",
+        "reasonForLoanIsEmpty": "reasonForLoanIsEmpty: !!!Not translated!!!",
+        "sourceOfFundIsEmpty": "sourceOfFundIsEmpty: !!!Not translated!!!"
+    },
+    "calculator": {
+        "amount": "Le prêt peut varier entre 3000&euro; et 100000&euro;."
+    },
+    "choosePinCode": {
+        "pincodeInvalid": "Votre code secret doit contenir 6 chiffres",
+        "pincodeInvalidDoesNotMatchRepeat": "Les données saisies sont différentes",
+        "pincodeInvalidSameAsBirthdate": "Votre date de naissance ne peut pas être choisie comme code secret.",
+        "pincodeInvalidSequence": "Votre code secret ne peut pas être une suite de chiffres."
+    },
+    "companyInformation": {
+        "chamberOfCommerceNumberIsInvalid": "Merci de renseigner un numéro RCS valide",
+        "invalidAddress": "invalidAddress: !!!Not translated!!!",
+        "legalFormIsEmpty": "Merci de renseigner une forme juridique valide",
+        "legalNameIsEmpty": "Merci de renseigner un nom d'Entreprise valide",
+        "phoneNumberNameIsEmpty": "Merci de renseigner un numéro de téléphone valide",
+        "vatNumberIsInvalid": "Merci de renseigner un numéro de TVA valide"
+    },
+    "disclaimer": {
+        "authorized": "authorized: !!!Not translated!!!",
+        "thirdParties": "thirdParties: !!!Not translated!!!"
+    },
+    "global": {
+        "addressIsEmpty": "Merci de renseigner une adresse valide",
+        "cityIsEmpty": "Merci de renseigner une ville valide",
+        "countryIsEmpty": "countryIsEmpty: !!!Not translated!!!",
+        "dateDayIsInvalid": "Merci de renseigner un jour valide",
+        "dateIsInvalid": "Merci de renseigner une date valide",
+        "dateMonthIsInvalid": "Merci de renseigner un mois valide",
+        "dateYearIsInvalid": "Merci de renseigner une année valide",
+        "emailAddressIsInvalid": "Merci de renseigner une adresse email valide",
+        "fillOutAllTheFields": "Merci de renseigner tous les champs.",
+        "formContainsErrors": "Le formulaire contient des erreurs",
+        "houseNumberIsEmpty": "houseNumberIsEmpty: !!!Not translated!!!",
+        "invalidCountry": "invalidCountry: !!!Not translated!!!",
+        "invalidLocationCountry": "invalidLocationCountry: !!!Not translated!!!",
+        "invalidLocationPostalCode": "invalidLocationPostalCode: !!!Not translated!!!",
+        "mobilePhoneNumberIsInvalid+": "mobilePhoneNumberIsInvalid+: !!!Not translated!!!",
+        "phoneNumberIsInvalid": "Merci de renseigner un numéro de téléphone valide",
+        "postalCodeIsInvalid": "Merci de renseigner un code postal valide",
+        "privacyDisclaimerNotAccepted": "privacyDisclaimerNotAccepted: !!!Not translated!!!",
+        "provinceIsEmpty": "provinceIsEmpty: !!!Not translated!!!",
+        "required": "Ce champs est obligatoire",
+        "termsNotAccepted": "termsNotAccepted: !!!Not translated!!!",
+        "uboIsNotAnAdult": "uboIsNotAnAdult: !!!Not translated!!!",
+        "valueNotEmpty": "valueNotEmpty: !!!Not translated!!!"
+    },
+    "login": {
+        "clientIdIsInvalid": "Merci de renseigner un numéro de client valide",
+        "Events": {
+            "ClientPermissionsRevoked": "Droits révoqués"
+        },
+        "Messages": {
+            "ClientIdRequired": "Merci de renseigner un numéro de client valide",
+            "InvalidUsernameOrPassword": "La combinaison numéro de client, date de naissance, code secret n'est pas valide."
+        },
+        "Scopes": {}
+    },
+    "notes": {
+        "categoryEmpty": "categoryEmpty: !!!Not translated!!!",
+        "messageEmpty": "messageEmpty: !!!Not translated!!!"
+    },
+    "personalInformation": {
+        "cityOfBirthIsEmpty": "Merci de renseigner une ville de naissance valide",
+        "countryOfBirthIsEmpty": "countryOfBirthIsEmpty: !!!Not translated!!!",
+        "firstnameIsEmpty": "Merci de renseigner un prénom valide",
+        "genderIsEmpty": "genderIsEmpty: !!!Not translated!!!",
+        "invalidFiscalCode": "invalidFiscalCode: !!!Not translated!!!",
+        "lastnameIsEmpty": "Merci de renseigner un nom de naissance valide",
+        "nationalityIsEmpty": "Merci de renseigner une natioanlité valide",
+        "notAnAdult": "notAnAdult: !!!Not translated!!!",
+        "notLegalRepresentative": "notLegalRepresentative: !!!Not translated!!!",
+        "noValidFiscalCode": "noValidFiscalCode: !!!Not translated!!!",
+        "roleInCompanyIsEmpty": "roleInCompanyIsEmpty: !!!Not translated!!!",
+        "titleIsEmpty": "Merci de renseigner une civilité"
+    },
+    "phoneVerification": {
+        "tanIsInvalid": "Code temporaire invalide",
+        "tanLength": "tanLength: !!!Not translated!!!"
+    },
+    "registration": {
+        "termsNotAccepted": "termsNotAccepted: !!!Not translated!!!"
+    },
+    "ubo": {
+        "InvalidAmountOwnedShares": "InvalidAmountOwnedShares: !!!Not translated!!!",
+        "invalidOwnedShares": "invalidOwnedShares: !!!Not translated!!!"
+    },
+    "updatePinCode": {
+        "pinCodeInvalidSameAsPrevious": "Votre code secret ne peut être identique au précédent."
+    },
+    "uploadIdentityDocument": {
+        "cardnumberIsEmpty": "Le numéro de la pièce est invalide.",
+        "countryOfIssueIsEmpty": "Le pays de délivrance est vide.",
+        "dateInvalid": "Merci de renseigner une date valide.",
+        "documentIsExpired": "Le document est expiré.",
+        "fileTypeBackNotAllowed": "fileTypeBackNotAllowed: !!!Not translated!!!",
+        "fileTypeFrontNotAllowed": "fileTypeFrontNotAllowed: !!!Not translated!!!",
+        "issuedDateAfterExpirationDate": "issuedDateAfterExpirationDate: !!!Not translated!!!",
+        "issuedDateInTheFuture": "issuedDateInTheFuture: !!!Not translated!!!",
+        "townOfIssueIsEmpty": "La ville de délivrance est vide."
+    }
+}

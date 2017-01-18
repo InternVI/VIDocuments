@@ -1,0 +1,114 @@
+{
+    "additionalInformation": {
+        "emptyGoodsToBannedCountry": "Please select a valid option",
+        "emptyPaymentsToBannedCountry": "Please select a valid option",
+        "emptyProductsOrServicesToBannedCountry": "Please select a valid option",
+        "industrySectorIsEmpty": "Please enter a valid industry sector",
+        "invalidnetProfit": "Please enter a valid net profit",
+        "invalidSalesVolume": "Please enter a positive sales volume",
+        "numberOfEmployeesIsEmpty": "Please enter a valid number of employees",
+        "prevalentWorkingAreaIsEmpty": "Please enter a valid prevalent working area",
+        "reasonForLoanIsEmpty": "Please enter a valid reason for the loan",
+        "sourceOfFundIsEmpty": "Please enter a valid source of fund"
+    },
+    "calculator": {
+        "amount": "Your loan can be between &euro;3000 and &euro;100000."
+    },
+    "choosePinCode": {
+        "pincodeInvalid": "Pincode should be 6 digits",
+        "pincodeInvalidDoesNotMatchRepeat": "Pincodes do not match",
+        "pincodeInvalidSameAsBirthdate": "Pincode can not be the same as your birthdate",
+        "pincodeInvalidSequence": "The pincode can not be in sequence."
+    },
+    "companyInformation": {
+        "chamberOfCommerceNumberIsInvalid": "Please enter a valid Chamber of Commerce number",
+        "invalidAddress": "Mailbox addresses are not allowed",
+        "legalFormIsEmpty": "Please enter a valid legal form",
+        "legalNameIsEmpty": "Please enter a valid legal name",
+        "phoneNumberNameIsEmpty": "Please enter a valid phone number",
+        "vatNumberIsInvalid": "Please enter a valid VAT number"
+    },
+    "disclaimer": {
+        "authorized": "You have to be authorized to apply for a loan in order to proceed",
+        "thirdParties": "You have to agree to grant third parties access to your data in order to proceed"
+    },
+    "global": {
+        "addressIsEmpty": "Please enter a valid address",
+        "cityIsEmpty": "Please enter a valid city",
+        "countryIsEmpty": "Please enter a valid country",
+        "dateDayIsInvalid": "Please enter a valid day",
+        "dateIsInvalid": "Please enter a valid date",
+        "dateMonthIsInvalid": "Please enter a valid month",
+        "dateYearIsInvalid": "Please enter a valid year",
+        "emailAddressIsInvalid": "Please enter a valid email address",
+        "fillOutAllTheFields": "Please fill out all the fields.",
+        "formContainsErrors": "The form contains errors",
+        "houseNumberIsEmpty": "Please enter a house number",
+        "invalidCountry": "Please fill in a valid country",
+        "invalidLocationCountry": "Company location is not valid",
+        "invalidLocationPostalCode": "Company location is not valid",
+        "mobilePhoneNumberIsInvalid+": "Please enter a valid ten digit mobile number starting with 06 or 07",
+        "phoneNumberIsInvalid": "Please enter a valid phone number (10 digits)",
+        "postalCodeIsInvalid": "Please enter a valid postal code",
+        "privacyDisclaimerNotAccepted": "You must agree to the privacy disclaimer",
+        "provinceIsEmpty": "Please enter a valid province",
+        "required": "This is a required field",
+        "termsNotAccepted": "Please agree to these terms to proceed",
+        "uboIsNotAnAdult": "Ubo needs to be an adult",
+        "valueNotEmpty": "Value needs to be empty"
+    },
+    "login": {
+        "clientIdIsInvalid": "Please enter a valid Client ID",
+        "Events": {
+            "ClientPermissionsRevoked": "Client Permissions Revoked"
+        },
+        "Messages": {
+            "ClientIdRequired": "Please enter a valid Client ID",
+            "InvalidUsernameOrPassword": "The combination of Client ID, date of birth and PIN Code do not match."
+        },
+        "Scopes": {}
+    },
+    "notes": {
+        "categoryEmpty": "Please select a category",
+        "messageEmpty": "Please enter a message"
+    },
+    "personalInformation": {
+        "cityOfBirthIsEmpty": "Please enter a valid city of birth",
+        "countryOfBirthIsEmpty": "Please enter a valid country of birth",
+        "firstnameIsEmpty": "Please enter a valid first name",
+        "genderIsEmpty": "Please select your gender",
+        "invalidFiscalCode": "Please enter a valid fiscal code.",
+        "lastnameIsEmpty": "Please enter a valid birth name",
+        "nationalityIsEmpty": "Please enter a valid nationality",
+        "notAnAdult": "Only adults can apply for a loan.",
+        "notLegalRepresentative": "Sorry we cannot perform your request, the Instant Lending request process is reserved only to clients with power of attorney",
+        "noValidFiscalCode": "Please enter a valid fiscal number",
+        "roleInCompanyIsEmpty": "Please select a role",
+        "titleIsEmpty": "Please select a title"
+    },
+    "phoneVerification": {
+        "tanIsInvalid": "Incorrect TAN code",
+        "tanLength": "Please fill in a six digit TAN-code"
+    },
+    "registration": {
+        "termsNotAccepted": "Please accept these terms to continue with your registration"
+    },
+    "ubo": {
+        "InvalidAmountOwnedShares": "Please enter a valid amount of owned shares. The total amount of shares can not be more dan 100%.",
+        "invalidOwnedShares": "Please enter a valid amount of owned shares."
+    },
+    "updatePinCode": {
+        "pinCodeInvalidSameAsPrevious": "Your pin code can not be the same as your previous pin code"
+    },
+    "uploadIdentityDocument": {
+        "cardnumberIsEmpty": "Please enter a document number.",
+        "countryOfIssueIsEmpty": "Country of issue is empty.",
+        "dateInvalid": "Please enter a valid date.",
+        "documentIsExpired": "Document is expired.",
+        "fileTypeBackNotAllowed": "Please upload a document of type jpg, png or pdf.",
+        "fileTypeFrontNotAllowed": "Please upload a document of type jpg, png or pdf.",
+        "issuedDateAfterExpirationDate": "The issued date cannot be after the expiration date.",
+        "issuedDateInTheFuture": "The issued date cannot be in the future.",
+        "townOfIssueIsEmpty": "Town of issue is empty."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "error": {
+        "404": "404: page not found",
+        "500": "500: Internal Server Error",
+        "default": {
+            "check": {
+                "correct": "Check whether or not all the infor&shy;mation you sup&shy;plied is correct",
+                "inconcist": "If you find any inconcis&shy;tencies, please re&shy;move them",
+                "update": "When you up&shy;dated the infor&shy;mation, re&shy;apply for a loan"
+            },
+            "description": "We're terribly sorry, but something prevented the application from succeeding. Because of this, we can't complete your request. You can always contact customer support for more information: <a href=\"tel:{phoneNumberValue}\">{phoneNumberLabel}</a>.",
+            "label": {
+                "cta": "Check the information"
+            },
+            "reason": {
+                "01": "Incorrect company information",
+                "02": "Incorrect personal information",
+                "03": "Email already exists",
+                "04": "Your credit rating is too low",
+                "05": "You are blacklisted by the autorities",
+                "title": "Reasons why this could have happened:"
+            },
+            "title": "We can't let you go through right now"
+        }
+    },
+    "footer": {
+        "description": "Do you have any questions about the application? Feel free to contact our customer support at: <a href=\"tel:{phoneNumberValue}\">{phoneNumberLabel}</a>. Our helpdesk is available for free from Monday to Friday from 8h am to 21h and Saturday from 8h to 18h.",
+        "label": {
+            "copyright": "&copy; {year} ING Bank N.V.",
+            "rights-reserved": "All rights reserved."
+        },
+        "powered-by": "Powered by VI Company",
+        "title": "Are you experiencing difficulties?"
+    },
+    "global": {
+        "phone-number": {
+            "label": "012 34 56 78 90",
+            "value": "01234567890"
+        }
+    },
+    "header": {
+        "brand-name": "ING Direct",
+        "link-title": "Go to Homepage"
+    },
+    "navigation": {
+        "items": {
+            "about-ing": "About ING Direct",
+            "account-settings": "Account settings",
+            "additional-info": "Additional info",
+            "calculator": "How much can I lend?",
+            "company-info": "Company info",
+            "dashboard": "Dashboard",
+            "help": "Need help? Call us",
+            "key-information": "Is this a loan for me?",
+            "login": "Login",
+            "logout": "Logout",
+            "personal-info": "Personal info",
+            "resume": "Resume loan application",
+            "steps": "How do I apply?"
+        },
+        "menu": "Menu",
+        "title": "Navigation"
+    },
+    "no-js+": "To complete registration it is necessary to enable JavaScript.\r\n\tHere are\r\n\tthe [instructions how to enable JavaScript in your web browser](http://www.enable-javascript.com/fr).",
+    "siteName": "ING Direct"
+}

@@ -1,0 +1,136 @@
+{
+    "changePincode": {
+        "step": {
+            "04": {
+                "buttonTekst": "Procedi per visualizzare il cruscotto",
+                "confirmationMessage": "",
+                "title": "Il tuo Codice PIN è stato aggiornato."
+            }
+        }
+    },
+    "forgotPincode": {
+        "phoneNumberVerification": "Hai richiesto il reset del Codice PIN. Usa il codice {tancode} per reimpostare il tuo Codice PIN .",
+        "step": {
+            "01": {
+                "description": "Prima di effettuare il reset del tuo Codice PIN devi inserire la tua email e la tua data di nascita.",
+                "title": "Hai dimenticato il tuo codice PIN?"
+            },
+            "02": {
+                "description": "Prima di effettuare il reset del tuo Codice PIN per favore verifica di aver inserito le 6 cifre del Codice TAN.",
+                "title": "Reimposta il tuo Codice PIN"
+            },
+            "03": {
+                "description": "Per favore inserisci un nuovo Codice PIN di 6 cifre",
+                "reset-pin": "Reimposta il Codice PIN",
+                "title": "Reimposta il tuo Codice PIN di 6 cifre"
+            },
+            "04": {
+                "buttonTekst": "Procedi per accedere",
+                "confirmationMessage": "Vai nella pagina di accesso per accedere con il nuovo Codice PIN che hai scelto.",
+                "title": "Il tuo Codice PIN è stato aggiornato.",
+                "updated": "updated: !!!Not translated!!!"
+            }
+        },
+        "title": "title: !!!Not translated!!!"
+    },
+    "login": {
+        "clear": "clear: !!!Not translated!!!",
+        "forgot-pin": "Hai dimenticato il tuo codice PIN?",
+        "title": "Esci in ING SME"
+    },
+    "logout": {
+        "loggout-out-inactivity": "Ti sei disconnesso per inattività",
+        "login-again": "login-again: !!!Not translated!!!",
+        "see-you-again": "Speriamo di rivederti presto. Non vuoi disconnetterti?",
+        "title": "title: !!!Not translated!!!",
+        "to-homepage": "to-homepage: !!!Not translated!!!",
+        "you-are-logged-out": "Ti sei disconnesso."
+    },
+    "step": {
+        "additional-information": {
+            "cta-label": "Vai al passo successivo: firma il contratto di prestito",
+            "title": "Informazioni aggiutive",
+            "ubo": "Titolare effettivo"
+        },
+        "application-feedback": {
+            "body-text": "La tua richiesta di prestito è in esame. Riceverai un email appena sarà esaminata dal nostro personale. Quando la richiesta verrà approvata, riceverai l'importo sul tuo conto corrente bancario e vedrai il prestito apparire sul tuo cruscotto.",
+            "btn-text": "Visualizza il tuo cruscotto",
+            "pageTitle": "pageTitle: !!!Not translated!!!",
+            "title": "Grazie per la tua richiesta"
+        },
+        "company-info": {
+            "note": "Ti preghiamo di notare che le informazioni che inserisci saranno verificate nel Registro delle Imprese.",
+            "title": "Informazioni sull'impresa"
+        },
+        "identity-document": {
+            "info": {
+                "title": "title: !!!Not translated!!!"
+            },
+            "title": "documento d'identità",
+            "upload": {
+                "back": "back: !!!Not translated!!!",
+                "button": "Carica un altra immagine",
+                "error": {
+                    "general": "Qualcosa non ha funzionato, per favore riprova più tardi",
+                    "size": "Il file selezionato è troppo grande (max 10mb)",
+                    "type": "Il file selezionato non è in un formato accettato (pdf, png or jpg)"
+                },
+                "front": "front: !!!Not translated!!!",
+                "intro+": "intro+: !!!Not translated!!!",
+                "preview-image": "preview-image: !!!Not translated!!!",
+                "requirements": {
+                    "extension": "extension: !!!Not translated!!!",
+                    "legible-text": "che il testo sia ben leggibile",
+                    "no-reflections": "senza riflessi",
+                    "proper-lighting": "illuminata correttamente",
+                    "title": "Assicurati che la foto sia"
+                },
+                "subtitle": "pdf, png or jpg",
+                "title": "Aggiorna il tuo profilo",
+                "types": {
+                    "drivers-license": "drivers-license: !!!Not translated!!!",
+                    "id-card": "id-card: !!!Not translated!!!",
+                    "passport": "passport: !!!Not translated!!!",
+                    "residency-permit": "residency-permit: !!!Not translated!!!",
+                    "select-one": "select-one: !!!Not translated!!!"
+                }
+            }
+        },
+        "loan-agreement": {
+            "failed": {
+                "body+": "body+: !!!Not translated!!!",
+                "cta": "cta: !!!Not translated!!!",
+                "title": "title: !!!Not translated!!!",
+                "what-is-infocert": {
+                    "body": "body: !!!Not translated!!!",
+                    "title": "title: !!!Not translated!!!"
+                }
+            },
+            "infocert": {
+                "body": "body: !!!Not translated!!!",
+                "cta": "cta: !!!Not translated!!!",
+                "title": "title: !!!Not translated!!!"
+            },
+            "titleFailed": "titleFailed: !!!Not translated!!!"
+        },
+        "personal-info": {
+            "title": "Informazioni Personali"
+        },
+        "personal-info-detail": {
+            "title": "Dettaglio Informazioni Personali"
+        },
+        "ubo": {
+            "add": "add: !!!Not translated!!!",
+            "cta-label": "cta-label: !!!Not translated!!!",
+            "form-subtitle": "form-subtitle: !!!Not translated!!!",
+            "form-title": "form-title: !!!Not translated!!!",
+            "more-ubos": "more-ubos: !!!Not translated!!!",
+            "nobody-more-than-25": "nobody-more-than-25: !!!Not translated!!!",
+            "only-one": "only-one: !!!Not translated!!!",
+            "remove": "remove: !!!Not translated!!!",
+            "shares-by-you": "shares-by-you: !!!Not translated!!!",
+            "shares-placeholder": "shares-placeholder: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        }
+    }
+}

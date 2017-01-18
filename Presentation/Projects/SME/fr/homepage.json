@@ -1,0 +1,109 @@
+{
+    "about-ing": {
+        "description+": "ING Direct ING belongs to the group, the second savings bank in the world, leading the bank / insurance and asset management. Born from the merger of insurer Nationale-Nederlanden and NMB Postbank Groep, is a large Dutch financial institution in more than 40 countries and whose origins date back more than 160 years. Founded in 1997 in Canada, ING Direct is present in France since 2000. Today we are No. 1 online banking with more than 1 Million customers.\r\n\r\n\t\tWe offer a range of products that will short to the point: a checking account, savings products \"liquid\" (Livret A passbook savings Orange, LDD), a life insurance and a range of simplified funding. By observing our customers we have made this choice, and this is how we continue to improve our products and services.",
+        "title": "About ING Direct",
+        "usp": {
+            "01": {
+                "description": "No waffle or hidden fees: that's our concept of online banking.",
+                "title": "Clear online banking"
+            },
+            "02": {
+                "description": "Our helpdesk is available for free from Monday to Friday from 8 am to 21h and Saturday from 8h to 18h. Call us: 012 3456789",
+                "title": "Helpdesk"
+            },
+            "03": {
+                "description": "We believe that online banking must be effective with simple products to manage.",
+                "title": "Simple and effective"
+            },
+            "04": {
+                "description": "You can do all your banking online, on your mobile or tablet, 7/7 wherever you are.",
+                "title": "Anywhere any time"
+            }
+        }
+    },
+    "button": {
+        "apply": "Souscrire",
+        "apply-cta": "Souscrivez maintenat!",
+        "read-more": "En savoir plus"
+    },
+    "calculator": {
+        "description": "Fee ranges from {fromPercentage} % to {toPercentage} %. All prices are indicative, apply to know the precise costs",
+        "label": {
+            "fee": "Fee",
+            "fee-amount": "Fee amount",
+            "initial-fee": "Initial fee",
+            "loan": "Loan",
+            "loan-amount": "Loan amount",
+            "month": "Month",
+            "total": "Total"
+        },
+        "title": "How much do you want to lend?"
+    },
+    "introduction": {
+        "description": "Souscrivez à un prêt professsionel à destination des Petites et Moyennes Entreprises entre 3.000&euro;&nbsp; et 100 000&euro;&nbsp; et recevez les fonds en 24 heures",
+        "subtitle": "Vérifiez votre éligibilité en seulement 10 minutes",
+        "title": "Souscrire à un prêt professsionel"
+    },
+    "key-information": {
+        "description+": "Obtenir un financement pour votre Entreprise n'est pas si simple et vos attentes ne sont pas toujours atteintes. C'est pourquoi nous vous proposons un processus de demande de finance si simple et intuitif que vous pouvez souscrire d'où vous voulez et à n'importe quel moment.\r\n\r\n\t\tNous vous offrons l'expert digital de l'analyse de crédit reposant sur la technologie la plus récente. Grâce a cela, nous some en mesure de vous donner la réponse personnalisée à votre demande la plus rapide, et mieux encore, vous n'avez pas besoin de gérer l'activité de votre Entreprise avec ING Direct.",
+        "title": "Un <b>prêt professionel</b> pour <b>les petites</b> et <b>moyennes entreprises</b>",
+        "usp": {
+            "01": {
+                "description": "Un processus 100% digital: obtenez une réponse en 10 minutes. Votre financement est approuvé dans les 48h.",
+                "title": "Immédiat"
+            },
+            "02": {
+                "description": "Afin d'analyser votre situation financière et vous fournir une réponse immédiate, nous vous demandons seulement de nous fournir un accès à vos comptes bancaires professionel.",
+                "title": "0 papier"
+            },
+            "03": {
+                "description": "Vos données sont sécurisées et ne sont utilisées que pour analyser votre demande de financement.ING Direct ne les partagera jamais.",
+                "title": "Pas d'inquiétudes"
+            },
+            "04": {
+                "description": "Nous vous offronss une limite maximale au sein de laquelle vous pouvez souscrire des prêts de 3000&euro; à 100 000&euro;.",
+                "title": "Flexible"
+            },
+            "05": {
+                "description": "Ce tout nouveau produit nous permet de vous proposer une offre personnalisée en fonction de la situation passée et actuelle de vos finances professionelles.",
+                "title": "Taux d'intérêt personnalisé"
+            },
+            "06": {
+                "description": "Aucuns frais de remboursement anticipé<br/>1 % de frais d'ouverture.",
+                "title": "Transparent"
+            }
+        }
+    },
+    "steps": {
+        "label": {
+            "step": "Etape"
+        },
+        "step": {
+            "01": {
+                "description": "Start by filling out the details of your company. We need this information to know what company the loan is for.",
+                "title": "Information de l'Entreprise"
+            },
+            "02": {
+                "description": "Start by filling out the details of your company. We need this information to know what company the loan is for.",
+                "title": "Informations personnelles"
+            },
+            "03": {
+                "description": "Déterminé les conditions auxquelles vous êtes éligible",
+                "title": "Eligibilité"
+            },
+            "04": {
+                "description": "Start by filling out the details of your company. We need this information to know what company the loan is for.",
+                "title": "Signature du contrat"
+            },
+            "05": {
+                "description": "This way we can check your identity and you can apply for a loan from behind your computer. Easy and fast.",
+                "title": "Téléchargement de votre justificatif d'identité"
+            },
+            "06": {
+                "description": "After you filled out all the details we run a few checks before approval. When you're applicable, you receive your loan within 24 hours.",
+                "title": "Réception des fonds"
+            }
+        },
+        "title": "Comment souscrire?"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "choose-pin-code": {
+        "clear-field": "Clear",
+        "pin-description": "Please choose a PIN to login next time",
+        "pin-repeat-description": "Please confirm your PIN",
+        "title": "Choose a PIN Code"
+    },
+    "description+": "**Please create an account before you can apply for a loan**",
+    "label": {
+        "call-to": "Please enter the TAN-code.",
+        "call-to-action": "Please enter the TAN-code we've just send to <span class=\"text-nowrap font-bold\">{phoneNumber}</span>.",
+        "resend": "Did you not receive the TAN code on your phone? <a href=\"{url}\"><b>resend it</b></a>."
+    },
+    "pageTitle": "Create an account",
+    "privacy-disclaimer": {
+        "body+": "ING BANK N.V. Milan Branch ('Banca'), con sede in Milano, Via Arbe n. 49, in qualità de Titolare del trattamento, La informa che i Suoi dati personali, come da Lei stresso indicati nella presente pagina WEB, sono trattati per adempiere a Sue specifiche richieste e, previa Sua manifestazione di consenso, per svolgere future attività di informazione commerciale, ricerca di mercato e offerte dirette di prodotti/servizi della Banca. Ultimata la compilasione della presente pagina WEB, Le verrà inviata automaticamente, nella Sua casella di posta elettronica comunicata, una e-mail contenete un codice personale e riservato che Le consentirà, nel caso di interruzione della richiesta di apertura del Contratto unico della Banca ed in particolare del prodotto denominato 'Conto Corrente Arancio'. di completare la richiesta con le informazioni mancanti (nel caso di richiesta di Contratto unico cointestato, la sopra menzionata e-mail sarà inviata solo al primo cointestatario).",
+        "checkbox-label": "I agree to the privacy disclaimer",
+        "title": "Privacy disclaimer"
+    },
+    "summary": {
+        "intro": "To do determine if you're eligible for a loan, we will ask for personal and company information. Please have the following things ready",
+        "list+": "- **Passport / ID Card**\r\n- **SIREN / SIRET number**\r\n- **Bank account information**",
+        "outro": "If you don't have all the information: don't worry. After you created an account, you can continue on a time of your choosing."
+    },
+    "textMessages": {
+        "phoneNumberVerification": "With this tan-code you can confirm your account creation: Use the code {tancode} to activate your account."
+    },
+    "title": "Apply for a loan",
+    "verify-phone-number": {
+        "subtitle": "We've just send you a TAN-code so we can verify your phone number",
+        "title": "Verify your phone number"
+    }
+}

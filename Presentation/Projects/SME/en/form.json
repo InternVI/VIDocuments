@@ -1,0 +1,160 @@
+{
+    "button": {
+        "create-and-proceed": "Create account &amp; proceed",
+        "login": "Login",
+        "next-step": "Proceed to the next step",
+        "reset-pin": "Reset PIN",
+        "submit": "Upload and apply for a loan"
+    },
+    "error": "An error occured",
+    "info": {
+        "coc": "We will attempt to pre-fill your company information based on your company's Chamber of Commerce number.",
+        "pin": "By creating your own pin code it will be possibille to restart the application process without the need to insert your data again.",
+        "vat": "We will attempt to pre-fill your company information based on your company's VAT number."
+    },
+    "label": {
+        "additional-information": {
+            "goods-banned-country": {
+                "label": "Do you, or any other group company, export/import /transfer/transport/ships goods or services to/from Cuba, Iran, North Korea, Sudan or Syria?"
+            },
+            "industry-sector": {
+                "agriculture": "Agriculture",
+                "commercial": "Commercial",
+                "financial": "Financial / Credit",
+                "label": "Industry sector",
+                "local": "Local Authority",
+                "manufacturing": "Manufacturing",
+                "other-placeholder": "Other industry sector",
+                "publicsector": "Public Sector",
+                "realestate": "Real Estate",
+                "select": "Select the industry sector",
+                "services": "Services"
+            },
+            "net-profit": {
+                "label": "Net profit last fiscal year"
+            },
+            "numbers-of-employees": {
+                "fourteen-to-nineteen": "14 &mdash; 19",
+                "label": "Number of employees",
+                "more-than-twenty": "more than 20",
+                "none": "None",
+                "one-to-five": "1 &mdash; 5",
+                "six-to-thirteen": "6 &mdash; 13"
+            },
+            "other": "Other",
+            "payments-banned-country": {
+                "label": "Do you, or any other group company, make payments to/receive payments from Cuba, Iran, North Korea, Sudan or Syria?"
+            },
+            "prevalent-working-area": {
+                "european-union": "European Union",
+                "extra-european-country": "Extra European country",
+                "label": "Prevalent working area"
+            },
+            "products-or-services-banned-country": {
+                "label": "Are you aware of situations where their products or services are being sold by third parties to Cuba, Iran, North Korea, Sudan or Syria?"
+            },
+            "questions-banned-countries": {
+                "label": "ING must comply with the sanctions laws of every country in which it does business. ING has decided that it will not do business with parties that have direct or indirect connections with Ultra High Risk Countries. Therefore we must ask you to answer these questions."
+            },
+            "reason-for-loan": {
+                "investment-fixed-assets": "Investment in fixed assets",
+                "investment-inventory": "Investment in inventory",
+                "investment-other-current-assets": "Investment in other current assets",
+                "investment-other-working-capital": "Investment in other working capital",
+                "investment-stock-debtors": "Investment in stock/debtors",
+                "label": "Reason for loan",
+                "other-placeholder": "Other reason for loan",
+                "purchase-raw-materials": "Purchase of raw materials",
+                "purchase-services": "Purchase of services",
+                "salary-payment": "Salary payment",
+                "select": "Select the reason for loan",
+                "tax-payment": "Tax advance payment"
+            },
+            "sales-volume": {
+                "label": "Sales volume (excl. VAT)"
+            },
+            "source-of-fund": {
+                "income": "Income from investments / disinvestments",
+                "inheritance": "Inheritance",
+                "investements": "Public investiments",
+                "label": "Source of fund",
+                "other-placeholder": "Other source of fund",
+                "pension": "Pension",
+                "select": "Select the source of fund",
+                "severance-indemnities": "Severance indemnities"
+            }
+        },
+        "address": "Address",
+        "chamber-of-commerce-number": "Chamber of Commerce Number",
+        "city": "City",
+        "city-of-birth": "City of birth",
+        "client-id": "Client ID",
+        "commercial-name": "Commercial name",
+        "company-role": {
+            "chairman": "Président",
+            "chief-executive-officer": "President Directeur Général",
+            "chief-financial-officer": "Directeur Financier",
+            "chief-operational-officer": "Directeur des operations",
+            "commercial-director": "Directeur commercial",
+            "director": "Directeur",
+            "role-in-company": "Role in company"
+        },
+        "country": "Country",
+        "country-of-birth": "Country of birth",
+        "country-of-issue": "Country of issue",
+        "country-of-residence": "Country of residence",
+        "date-of-birth": "Date of birth",
+        "day": "day",
+        "email": "Email address",
+        "established-on": "Established on",
+        "expiration-date": "Expiration date",
+        "fiscal-number": "Fiscal number",
+        "fiscal-number-placeholder": "ABCABC12A123A",
+        "head-office": "Head office",
+        "house-number": "House number",
+        "identityDocumentType": "Type",
+        "id-number": "Document number",
+        "id-type": {
+            "id": "National identity card",
+            "passport": "Passport"
+        },
+        "issue-date": "Issue date",
+        "issued-date": "Issued date",
+        "legal-form": "Legal form",
+        "legal-name": "Legal name",
+        "legal-representative": "I am a legal representative of this company",
+        "mobile-number": "Mobile number",
+        "month": "month",
+        "name-birth": "Name at birth",
+        "name-first": "First name",
+        "name-last": "Last name",
+        "nationality": "Nationality",
+        "number": "Number",
+        "personal-address": "Personal address",
+        "personal-information-terms-france": "InConformément à la loi informatique et libertés, les informations demandées sur ce formulaire sont nécessaires au traitement de votre demande. Vous disposez d'un droit d'accès, de rectification et de suppression des informations vous concernant auprès du service Clientèle d'ING Direct par courrier ou téléphone. Sauf opposition de votre part, elles pourront être utilisées par ING Direct à des fins commerciales dans le cadre de la relation d'affaires",
+        "personal-information-terms-france-short": "I agree that ING is using my personal infomation",
+        "phone-number": "Phone number",
+        "pin": "6 digit PIN Code",
+        "pin-repeat": "Repeat PIN Code",
+        "postal-code": "Postal code",
+        "province": "Province",
+        "registration-terms": "I agree to be contacted by ING Direct by email, SMS or telephone within the framework of its commercial offers",
+        "street": "Street",
+        "tan": "TAN Code",
+        "title": {
+            "mister": "Mr.",
+            "mistress": "Mrs."
+        },
+        "town-of-issue": "Town of issue",
+        "ubo": {
+            "shares-owned": "Shares owned in %"
+        },
+        "vat": "VAT number",
+        "year": "year"
+    },
+    "no-results": "No results found",
+    "placeholder": {
+        "dd-mm-jjjj": "dd/mm/yyyy",
+        "mobileNumber": "06 XXXX XXXX or 07 XXXX XXXX"
+    }
+}

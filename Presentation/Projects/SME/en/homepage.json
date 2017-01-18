@@ -1,0 +1,109 @@
+{
+    "about-ing": {
+        "description+": "ING Direct ING belongs to the group, the second savings bank in the world, leading the bank / insurance and asset management. Born from the merger of insurer Nationale-Nederlanden and NMB Postbank Groep, is a large Dutch financial institution in more than 40 countries and whose origins date back more than 160 years. Founded in 1997 in Canada, ING Direct is present in France since 2000. Today we are No. 1 online banking with more than 1 Million customers.\r\n\r\n\t\tWe offer a range of products that will short to the point: a checking account, savings products \"liquid\" (Livret A passbook savings Orange, LDD), a life insurance and a range of simplified funding. By observing our customers we have made this choice, and this is how we continue to improve our products and services.",
+        "title": "About ING Direct",
+        "usp": {
+            "01": {
+                "description": "No waffle or hidden fees: that's our concept of online banking.",
+                "title": "Clear online banking"
+            },
+            "02": {
+                "description": "Our helpdesk is available for free from Monday to Friday from 8 am to 21h and Saturday from 8h to 18h. Call us: 012 3456789",
+                "title": "Helpdesk"
+            },
+            "03": {
+                "description": "We believe that online banking must be effective with simple products to manage.",
+                "title": "Simple and effective"
+            },
+            "04": {
+                "description": "You can do all your banking online, on your mobile or tablet, 7/7 wherever you are.",
+                "title": "Anywhere any time"
+            }
+        }
+    },
+    "button": {
+        "apply": "Apply for a loan",
+        "apply-cta": "Apply now!",
+        "read-more": "Read more"
+    },
+    "calculator": {
+        "description": "Fee ranges from {fromPercentage} % to {toPercentage} %. All prices are indicative, apply to know the precise costs",
+        "label": {
+            "fee": "Fee",
+            "fee-amount": "Fee amount",
+            "initial-fee": "Initial fee",
+            "loan": "Loan",
+            "loan-amount": "Loan amount",
+            "month": "Month",
+            "total": "Total"
+        },
+        "title": "How much do you want to lend?"
+    },
+    "introduction": {
+        "description": "Apply for a business loan between &euro;&nbsp;3.000 and &euro;&nbsp;100.000 for small and medium companies and receive your money within 24 hours",
+        "subtitle": "It only takes 10 minutes, to know if you're eligible",
+        "title": "Apply for a business loan"
+    },
+    "key-information": {
+        "description+": "Apply for financing for your business is not easy, and your expectations are not always met. Therefore, we offer a new way of financing simple and so comfortable that you can apply whenever and wherever you want.\r\n\r\n\t\tWe offer you the latest technology using a digital expert credit analysis platform for freelancers and companies. In this way we can give you a much faster and tailored to your needs response, and best, without the activity of your business is at ING DIRECT.",
+        "title": "A <b>business loan</b> for <b>small</b> and <b>medium enterprises</b>",
+        "usp": {
+            "01": {
+                "description": "100% online process, we will provide a response in less than 10 minutes and a loan will be approved or denied within 48 hours.",
+                "title": "Immediate"
+            },
+            "02": {
+                "description": "To analyse your updated business data and provide an immediate response we will only ask your passwords and account number of your principal business accounts.",
+                "title": "Paperless"
+            },
+            "03": {
+                "description": "It is backed by ING DIRECT. Your data is only used to analyse your credit and won't be shared with other companies.",
+                "title": "No worries"
+            },
+            "04": {
+                "description": "We offer a maximum limit that can be taken in different loans. From &euro;&nbsp;3000 to &euro;&nbsp;100.000 without the need for a notarised signature or endorsement.",
+                "title": "Flexible"
+            },
+            "05": {
+                "description": "This new product allows us to offer a variable interest rate, depending on the characteristics of your, your historical and current situation:business.",
+                "title": "Variable interest"
+            },
+            "06": {
+                "description": "0% commission for partial repayment<br/>0% commission for total repayment<br/>1 % origination fee that applies when taking the loan.",
+                "title": "Transparant"
+            }
+        }
+    },
+    "steps": {
+        "label": {
+            "step": "Step"
+        },
+        "step": {
+            "01": {
+                "description": "Start by filling out the details of your company. We need this information to know what company the loan is for.",
+                "title": "Add your company info"
+            },
+            "02": {
+                "description": "Start by filling out the details of your company. We need this information to know what company the loan is for.",
+                "title": "Add your personal info"
+            },
+            "03": {
+                "description": "Sign the loan agreement",
+                "title": "Add your bank accounts"
+            },
+            "04": {
+                "description": "Start by filling out the details of your company. We need this information to know what company the loan is for.",
+                "title": "Sign the loan agreement"
+            },
+            "05": {
+                "description": "This way we can check your identity and you can apply for a loan from behind your computer. Easy and fast.",
+                "title": "Upload a picture of your ID card or passport"
+            },
+            "06": {
+                "description": "After you filled out all the details we run a few checks before approval. When you're applicable, you receive your loan within 24 hours.",
+                "title": "Get approved and receive your loan"
+            }
+        },
+        "title": "How do I apply for a loan?"
+    }
+}

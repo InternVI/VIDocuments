@@ -1,0 +1,92 @@
+{
+    "add-loan-section": {
+        "available": "The amount of loan available for you: ",
+        "take-a-new-loan": "Take a new loan",
+        "title": "In need of another loan?"
+    },
+    "back-accounts-section": {
+        "add-account": "Add bank account",
+        "adding-accounts": "Adding more bank accounts can increase your credit rating and therefor higher the loan possibilities.",
+        "title": "Bank accounts"
+    },
+    "company-info": {
+        "share-holders": {
+            "nationality": "nationality",
+            "residency": "Resides in",
+            "shares-owned": "shares owned",
+            "title": "Share holder(s)"
+        },
+        "title": "Company information"
+    },
+    "correct-info": {
+        "body+": "Please contact our helpdesk at [{phonelabel}](tel:{phonevalue}). Our helpdesk is available for free from Monday to Friday from 8h am to 21h and Saturday from 8h to 18h.",
+        "title": "Is this information not correct?"
+    },
+    "dashboardResources": {
+        "client-id": "Client ID",
+        "title": "Personal information"
+    },
+    "empty-state": {
+        "body": "Once your loan application is approved, you will receive an email and off course the money on your bank account. If you then return here, you will find all your loan information here in one place.",
+        "title": "Your loan application is being reviewed"
+    },
+    "help-section": {
+        "body": "If you have any questions, please feel free to give us a call. Our help desk is open Mondays to Fridays from 8 am to 21h and Saturday from 8h to 18h.",
+        "title": "Can we help you with something?"
+    },
+    "loan-agreement": {
+        "download-button": "Download your loan agreement"
+    },
+    "loan-section": {
+        "cancellation": "Cancellation is possible within 14 days after application. If you want to cancel, please call the help desk.",
+        "early-repayment": "Early repayment is possible.",
+        "head": "{amount} Loan from {date}",
+        "loan-and-fee+": "{loan} Loan and {fee} Fee ({interest})",
+        "missed-payment": "missed payment",
+        "next-payment": "Next payment",
+        "paid": "paid",
+        "remaining": "{amount} remaining",
+        "repaid": "{amount} repaid"
+    },
+    "navigation": {
+        "account-settings": "Account settings",
+        "additional-info": "Additional info",
+        "company-info": "Company info",
+        "dashboard": "Dashboard",
+        "personal-info": "Personal info"
+    },
+    "not-eligable-without-reason": {
+        "body+": "If you have any questions please contact the help desk at [012 - 3456 7890](tel:+01234567890).",
+        "subtitle": "Unfortunately you are not eligible for a loan",
+        "title": "Unfortunately you are not eligible for a loan"
+    },
+    "not-eligable-with-reason": {
+        "intro+": "Unfortunately you are not eligible for a loan. The resons for this are the following:",
+        "outro+": "If you have any questions please contact the help desk at [012 - 3456 7890](tel:+01234567890)",
+        "title": "Not eligible for loan"
+    },
+    "progress-bar": {
+        "title": "Progress"
+    },
+    "settings": {
+        "change-email": {
+            "body": "Do you want te recieve emails on a different address? You can change your email here.",
+            "btn-label": "Change email address",
+            "title": "Change your email address"
+        },
+        "change-pin": {
+            "body": "If you want, you can change your PIN code. Make sure you have your telephone ready when resetting your PIN code.",
+            "btn-label": "Change PIN code",
+            "title": "Change your PIN-code"
+        },
+        "delete-account-section": {
+            "body": "Do you want to delete your account? Please contact the help desk [{phonelabel}](tel:{phonevalue}). You can request them to remove your account. After you've repaid all your loans, your account will be automatically deleted after 90 days.",
+            "title": "Delete your account"
+        },
+        "questions-section": {
+            "body": "If you have any questions, please feel free to give us a call. Our help desk is open Mondays to Fridays from 8 am to 21h and Saturday from 8h to 18h.",
+            "title": "Do you have any questinos?"
+        }
+    },
+    "title": "Dashboard"
+}

@@ -1,0 +1,92 @@
+{
+    "add-loan-section": {
+        "available": "available: !!!Not translated!!!",
+        "take-a-new-loan": "take-a-new-loan: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "back-accounts-section": {
+        "add-account": "add-account: !!!Not translated!!!",
+        "adding-accounts": "adding-accounts: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "company-info": {
+        "share-holders": {
+            "nationality": "nationality: !!!Not translated!!!",
+            "residency": "residency: !!!Not translated!!!",
+            "shares-owned": "shares-owned: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "title": "Informations de votre Entreprise"
+    },
+    "correct-info": {
+        "body+": "body+: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "dashboardResources": {
+        "client-id": "client-id: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "empty-state": {
+        "body": "body: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "help-section": {
+        "body": "body: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "loan-agreement": {
+        "download-button": "download-button: !!!Not translated!!!"
+    },
+    "loan-section": {
+        "cancellation": "cancellation: !!!Not translated!!!",
+        "early-repayment": "early-repayment: !!!Not translated!!!",
+        "head": "head: !!!Not translated!!!",
+        "loan-and-fee+": "loan-and-fee+: !!!Not translated!!!",
+        "missed-payment": "missed-payment: !!!Not translated!!!",
+        "next-payment": "next-payment: !!!Not translated!!!",
+        "paid": "paid: !!!Not translated!!!",
+        "remaining": "remaining: !!!Not translated!!!",
+        "repaid": "repaid: !!!Not translated!!!"
+    },
+    "navigation": {
+        "account-settings": "Paramètres",
+        "additional-info": "Informations complémentaires",
+        "company-info": "Informations de votre Entreprise",
+        "dashboard": "Accueil",
+        "personal-info": "Informations personnelles"
+    },
+    "not-eligable-without-reason": {
+        "body+": "body+: !!!Not translated!!!",
+        "subtitle": "subtitle: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "not-eligable-with-reason": {
+        "intro+": "intro+: !!!Not translated!!!",
+        "outro+": "outro+: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "progress-bar": {
+        "title": "Etape"
+    },
+    "settings": {
+        "change-email": {
+            "body": "body: !!!Not translated!!!",
+            "btn-label": "btn-label: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "change-pin": {
+            "body": "body: !!!Not translated!!!",
+            "btn-label": "btn-label: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "delete-account-section": {
+            "body": "body: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        },
+        "questions-section": {
+            "body": "body: !!!Not translated!!!",
+            "title": "title: !!!Not translated!!!"
+        }
+    },
+    "title": "title: !!!Not translated!!!"
+}

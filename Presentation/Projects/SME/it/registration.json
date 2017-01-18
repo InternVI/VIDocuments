@@ -1,0 +1,33 @@
+{
+    "choose-pin-code": {
+        "clear-field": "clear-field: !!!Not translated!!!",
+        "pin-description": "Crea il tuo codice PIN per i prossimi accessi",
+        "pin-repeat-description": "Conferma il tuo PIN",
+        "title": "Crea il tuo Codice PIN"
+    },
+    "description+": "**Devi registrarti prima di richiedere un prestito**",
+    "label": {
+        "call-to": "Inserisci il TAN-code.",
+        "call-to-action": "Inserisci il TAN-code che ti abbiamo inviato al <span class=\"text-nowrap font-bold\">{phoneNumber}</span>.",
+        "resend": "Non hai ricevuto il TAN code sul telefono? <a href=\"{url}\"><b>resend it</b></a>."
+    },
+    "pageTitle": "Crea un account",
+    "privacy-disclaimer": {
+        "body+": "body+: !!!Not translated!!!",
+        "checkbox-label": "checkbox-label: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "summary": {
+        "intro": "Per decidere se sei idoneo a ricevere un prestito, ti chiederemo alcune informazioni personali e informazioni sulla tua azienda. Cortesemente tieni pronti i seguenti documenti",
+        "list+": "- **Passporto / Carta d'identità**",
+        "outro": "Se non hai queste tutte informazioni non preoccuparti: dopo aver creato un account, puoi continuare ad inserirle in un altro momento."
+    },
+    "textMessages": {
+        "phoneNumberVerification": "Con questo tan-code puoi confermare la creazione del tuo account: usa il tan-code {tancode} per attivare il tuo account."
+    },
+    "title": "Richiedi un prestito",
+    "verify-phone-number": {
+        "subtitle": "Ti abbiamo appena inviato un TAN-code per verificare il tuo numero di telefono",
+        "title": "Controlla il tuo numero di telefono"
+    }
+}

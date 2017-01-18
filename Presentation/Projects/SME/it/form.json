@@ -1,0 +1,160 @@
+{
+    "button": {
+        "create-and-proceed": "Crea il tuo Account e procedi",
+        "login": "Login",
+        "next-step": "Vai al passo successivo",
+        "reset-pin": "Reset PIN",
+        "submit": "Invia"
+    },
+    "error": "Si è verificato un errore",
+    "info": {
+        "coc": "coc: !!!Not translated!!!",
+        "pin": "pin: !!!Not translated!!!",
+        "vat": "vat: !!!Not translated!!!"
+    },
+    "label": {
+        "additional-information": {
+            "goods-banned-country": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "industry-sector": {
+                "agriculture": "Agricoltura",
+                "commercial": "Commerciale",
+                "financial": "Credito/Finanza",
+                "label": "Settore industrale",
+                "local": "Ente Locale",
+                "manufacturing": "Produzione",
+                "other-placeholder": "Altro settore industriale",
+                "publicsector": "Settore Pubblico",
+                "realestate": "Immobiliare",
+                "select": "Seleziona un settore industriale",
+                "services": "Servizi"
+            },
+            "net-profit": {
+                "label": "Utile netto dello scorso anno fiscale"
+            },
+            "numbers-of-employees": {
+                "fourteen-to-nineteen": "14 - 19",
+                "label": "Numero di dipendenti",
+                "more-than-twenty": "più di 20",
+                "none": "Nessuno",
+                "one-to-five": "1 - 5",
+                "six-to-thirteen": "6 - 13"
+            },
+            "other": "Altro",
+            "payments-banned-country": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "prevalent-working-area": {
+                "european-union": "Unione Europea",
+                "extra-european-country": "Paese Extra Europeo",
+                "label": "Area di lavoro principale"
+            },
+            "products-or-services-banned-country": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "questions-banned-countries": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "reason-for-loan": {
+                "investment-fixed-assets": "investment-fixed-assets: !!!Not translated!!!",
+                "investment-inventory": "investment-inventory: !!!Not translated!!!",
+                "investment-other-current-assets": "investment-other-current-assets: !!!Not translated!!!",
+                "investment-other-working-capital": "investment-other-working-capital: !!!Not translated!!!",
+                "investment-stock-debtors": "investment-stock-debtors: !!!Not translated!!!",
+                "label": "Motivo del prestito",
+                "other-placeholder": "Altri motivi",
+                "purchase-raw-materials": "Acquisto di materie prime",
+                "purchase-services": "Acquisto di servizi",
+                "salary-payment": "Pagamento stipendio",
+                "select": "Seleziona un motivo del prestito",
+                "tax-payment": "Pagamento anticipato delle imposte"
+            },
+            "sales-volume": {
+                "label": "Volume delle vendite (IVA esclusa)"
+            },
+            "source-of-fund": {
+                "income": "Proventi da investimenti/disinvestimenti",
+                "inheritance": "Eredità",
+                "investements": "Investimenti pubblici",
+                "label": "Fonte di reddito",
+                "other-placeholder": "Altre fonti di reddito",
+                "pension": "Pensione",
+                "select": "Seleziona una fonte di reddito",
+                "severance-indemnities": "Trattamento di fine rapporto"
+            }
+        },
+        "address": "Indirizzo",
+        "chamber-of-commerce-number": "Numero di iscrizione al REA",
+        "city": "Città",
+        "city-of-birth": "Città di nascita",
+        "client-id": "Codice Cliente",
+        "commercial-name": "Denominazione dell'Impresa",
+        "company-role": {
+            "chairman": "chairman: !!!Not translated!!!",
+            "chief-executive-officer": "chief-executive-officer: !!!Not translated!!!",
+            "chief-financial-officer": "chief-financial-officer: !!!Not translated!!!",
+            "chief-operational-officer": "chief-operational-officer: !!!Not translated!!!",
+            "commercial-director": "commercial-director: !!!Not translated!!!",
+            "director": "director: !!!Not translated!!!",
+            "role-in-company": "role-in-company: !!!Not translated!!!"
+        },
+        "country": "Nazione",
+        "country-of-birth": "Nazione di nascita",
+        "country-of-issue": "Nazione di emissione",
+        "country-of-residence": "Nazione di residenza",
+        "date-of-birth": "Data di nascita",
+        "day": "giorno",
+        "email": "Indirizzo Email",
+        "established-on": "Fondata il",
+        "expiration-date": "Data di scadenza",
+        "fiscal-number": "fiscal-number: !!!Not translated!!!",
+        "fiscal-number-placeholder": "fiscal-number-placeholder: !!!Not translated!!!",
+        "head-office": "Sede centrale",
+        "house-number": "house-number: !!!Not translated!!!",
+        "identityDocumentType": "identityDocumentType: !!!Not translated!!!",
+        "id-number": "Numero della Carta d'identità o del Passporto",
+        "id-type": {
+            "id": "Carta d'identità",
+            "passport": "Passporto"
+        },
+        "issue-date": "issue-date: !!!Not translated!!!",
+        "issued-date": "issued-date: !!!Not translated!!!",
+        "legal-form": "Forma Giuridica",
+        "legal-name": "Ragione sociale",
+        "legal-representative": "Sono il rappresentante legale di questa impresa",
+        "mobile-number": "Numero di cellulare",
+        "month": "mese",
+        "name-birth": "Nome di battesimo",
+        "name-first": "Nome",
+        "name-last": "Cognome",
+        "nationality": "Nazionalità",
+        "number": "Numero",
+        "personal-address": "Indirizzo personale",
+        "personal-information-terms-france": "personal-information-terms-france: !!!Not translated!!!",
+        "personal-information-terms-france-short": "personal-information-terms-france-short: !!!Not translated!!!",
+        "phone-number": "Numero di telefono",
+        "pin": "Codice PIN di 6 cifre",
+        "pin-repeat": "Ripeti il Codice PIN",
+        "postal-code": "CAP",
+        "province": "province: !!!Not translated!!!",
+        "registration-terms": "registration-terms: !!!Not translated!!!",
+        "street": "Via",
+        "tan": "Codice TAN",
+        "title": {
+            "mister": "Sig.",
+            "mistress": "Sig.ra"
+        },
+        "town-of-issue": "Città di emissione",
+        "ubo": {
+            "shares-owned": "Quota di partecipazione %"
+        },
+        "vat": "Partita IVA",
+        "year": "anno"
+    },
+    "no-results": "Nessun risultato trovato",
+    "placeholder": {
+        "dd-mm-jjjj": "gg/mm/aaaa",
+        "mobileNumber": "3XX XXXX XXX"
+    }
+}

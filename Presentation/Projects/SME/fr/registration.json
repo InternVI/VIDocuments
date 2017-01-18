@@ -1,0 +1,33 @@
+{
+    "choose-pin-code": {
+        "clear-field": "clear-field: !!!Not translated!!!",
+        "pin-description": "Merci de choisir un code secret afin de vous connecter ultèrieurement",
+        "pin-repeat-description": "Merci de confirmer votre code secret",
+        "title": "Choisissez un code secret"
+    },
+    "description+": "**Merci de créer un espace personnel avant de souscrire à un prêt**",
+    "label": {
+        "call-to": "Saisissez votre code temporaire.",
+        "call-to-action": "Saisissez le code temporaire que nous venons de vous envoyer par SMS au numéro <span class=\"text-nowrap font-bold\">{phoneNumber}</span>.",
+        "resend": "Vous n'avez pas reçu votre code temporaire? <a href=\"{url}\"><b>Renvoyez le moi</b></a>."
+    },
+    "pageTitle": "pageTitle: !!!Not translated!!!",
+    "privacy-disclaimer": {
+        "body+": "body+: !!!Not translated!!!",
+        "checkbox-label": "checkbox-label: !!!Not translated!!!",
+        "title": "title: !!!Not translated!!!"
+    },
+    "summary": {
+        "intro": "Afin de vérifier votre éligibilité, nous allons avoir besoin d'informations relatives à votre Entreprise. Merci de préparer les éléments suivants",
+        "list+": "- **Passeport / Carte nationale d'identité**\r\n- **Numéro SIREN / SIRET**\r\n- **Informations de connexion à la banque de votre Entreprise**",
+        "outro": "Si vous n'avez l'ensemble des information, pas d'inquiétude. Après avoir créé votre espace personnel, vous pourrez continuer votre souscription à tout moment."
+    },
+    "textMessages": {
+        "phoneNumberVerification": "Confirmer votre numéro de téléphone en utilisant le code temporaire: {tancode} pour activer votre compte."
+    },
+    "title": "Souscrire",
+    "verify-phone-number": {
+        "subtitle": "Nous venons de vous envoyer un code temporaire par SMS pour vérifier votre numéro de téléphone",
+        "title": "Vérification de votre numéro de téléphone"
+    }
+}

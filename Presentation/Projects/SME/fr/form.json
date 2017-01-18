@@ -1,0 +1,160 @@
+{
+    "button": {
+        "create-and-proceed": "Création de votre espace personnel",
+        "login": "Connexion",
+        "next-step": "Etape suivante",
+        "reset-pin": "Réinitialisation du code secret",
+        "submit": "Confirmer"
+    },
+    "error": "error: !!!Not translated!!!",
+    "info": {
+        "coc": "coc: !!!Not translated!!!",
+        "pin": "pin: !!!Not translated!!!",
+        "vat": "vat: !!!Not translated!!!"
+    },
+    "label": {
+        "additional-information": {
+            "goods-banned-country": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "industry-sector": {
+                "agriculture": "agriculture: !!!Not translated!!!",
+                "commercial": "commercial: !!!Not translated!!!",
+                "financial": "financial: !!!Not translated!!!",
+                "label": "label: !!!Not translated!!!",
+                "local": "local: !!!Not translated!!!",
+                "manufacturing": "manufacturing: !!!Not translated!!!",
+                "other-placeholder": "other-placeholder: !!!Not translated!!!",
+                "publicsector": "publicsector: !!!Not translated!!!",
+                "realestate": "realestate: !!!Not translated!!!",
+                "select": "select: !!!Not translated!!!",
+                "services": "services: !!!Not translated!!!"
+            },
+            "net-profit": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "numbers-of-employees": {
+                "fourteen-to-nineteen": "fourteen-to-nineteen: !!!Not translated!!!",
+                "label": "label: !!!Not translated!!!",
+                "more-than-twenty": "more-than-twenty: !!!Not translated!!!",
+                "none": "none: !!!Not translated!!!",
+                "one-to-five": "one-to-five: !!!Not translated!!!",
+                "six-to-thirteen": "six-to-thirteen: !!!Not translated!!!"
+            },
+            "other": "other: !!!Not translated!!!",
+            "payments-banned-country": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "prevalent-working-area": {
+                "european-union": "european-union: !!!Not translated!!!",
+                "extra-european-country": "extra-european-country: !!!Not translated!!!",
+                "label": "label: !!!Not translated!!!"
+            },
+            "products-or-services-banned-country": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "questions-banned-countries": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "reason-for-loan": {
+                "investment-fixed-assets": "investment-fixed-assets: !!!Not translated!!!",
+                "investment-inventory": "investment-inventory: !!!Not translated!!!",
+                "investment-other-current-assets": "investment-other-current-assets: !!!Not translated!!!",
+                "investment-other-working-capital": "investment-other-working-capital: !!!Not translated!!!",
+                "investment-stock-debtors": "investment-stock-debtors: !!!Not translated!!!",
+                "label": "label: !!!Not translated!!!",
+                "other-placeholder": "other-placeholder: !!!Not translated!!!",
+                "purchase-raw-materials": "purchase-raw-materials: !!!Not translated!!!",
+                "purchase-services": "purchase-services: !!!Not translated!!!",
+                "salary-payment": "salary-payment: !!!Not translated!!!",
+                "select": "select: !!!Not translated!!!",
+                "tax-payment": "tax-payment: !!!Not translated!!!"
+            },
+            "sales-volume": {
+                "label": "label: !!!Not translated!!!"
+            },
+            "source-of-fund": {
+                "income": "income: !!!Not translated!!!",
+                "inheritance": "inheritance: !!!Not translated!!!",
+                "investements": "investements: !!!Not translated!!!",
+                "label": "label: !!!Not translated!!!",
+                "other-placeholder": "other-placeholder: !!!Not translated!!!",
+                "pension": "pension: !!!Not translated!!!",
+                "select": "select: !!!Not translated!!!",
+                "severance-indemnities": "severance-indemnities: !!!Not translated!!!"
+            }
+        },
+        "address": "Addresse",
+        "chamber-of-commerce-number": "Numéro RCS",
+        "city": "Ville",
+        "city-of-birth": "Ville de naissance",
+        "client-id": "Numéro de client",
+        "commercial-name": "Nom commercial",
+        "company-role": {
+            "chairman": "chairman: !!!Not translated!!!",
+            "chief-executive-officer": "chief-executive-officer: !!!Not translated!!!",
+            "chief-financial-officer": "chief-financial-officer: !!!Not translated!!!",
+            "chief-operational-officer": "chief-operational-officer: !!!Not translated!!!",
+            "commercial-director": "commercial-director: !!!Not translated!!!",
+            "director": "director: !!!Not translated!!!",
+            "role-in-company": "role-in-company: !!!Not translated!!!"
+        },
+        "country": "country: !!!Not translated!!!",
+        "country-of-birth": "country-of-birth: !!!Not translated!!!",
+        "country-of-issue": "Country of issue",
+        "country-of-residence": "country-of-residence: !!!Not translated!!!",
+        "date-of-birth": "Date de naissance",
+        "day": "Jour",
+        "email": "Adresse email",
+        "established-on": "Créée le",
+        "expiration-date": "Date d'expiration",
+        "fiscal-number": "fiscal-number: !!!Not translated!!!",
+        "fiscal-number-placeholder": "fiscal-number-placeholder: !!!Not translated!!!",
+        "head-office": "Siège social",
+        "house-number": "house-number: !!!Not translated!!!",
+        "identityDocumentType": "identityDocumentType: !!!Not translated!!!",
+        "id-number": "Numéro de pièce d'identité ou de passeport",
+        "id-type": {
+            "id": "Carte nationale d'identité",
+            "passport": "Passeport"
+        },
+        "issue-date": "issue-date: !!!Not translated!!!",
+        "issued-date": "issued-date: !!!Not translated!!!",
+        "legal-form": "Forme juridique",
+        "legal-name": "Nom officiel",
+        "legal-representative": "legal-representative: !!!Not translated!!!",
+        "mobile-number": "mobile-number: !!!Not translated!!!",
+        "month": "mois",
+        "name-birth": "Nom de naissance",
+        "name-first": "Prénom",
+        "name-last": "Nom",
+        "nationality": "Nationalité",
+        "number": "number: !!!Not translated!!!",
+        "personal-address": "Adresse personnelle",
+        "personal-information-terms-france": "personal-information-terms-france: !!!Not translated!!!",
+        "personal-information-terms-france-short": "personal-information-terms-france-short: !!!Not translated!!!",
+        "phone-number": "Numéro de téléphone",
+        "pin": "Code secret à 6 chiffres",
+        "pin-repeat": "Saisissez à nouveau le code secret",
+        "postal-code": "Code postal",
+        "province": "province: !!!Not translated!!!",
+        "registration-terms": "registration-terms: !!!Not translated!!!",
+        "street": "street: !!!Not translated!!!",
+        "tan": "Code temporaire",
+        "title": {
+            "mister": "Mr.",
+            "mistress": "Mme."
+        },
+        "town-of-issue": "Ville de délivrance",
+        "ubo": {
+            "shares-owned": "shares-owned: !!!Not translated!!!"
+        },
+        "vat": "Numéro de TVA",
+        "year": "année"
+    },
+    "no-results": "no-results: !!!Not translated!!!",
+    "placeholder": {
+        "dd-mm-jjjj": "dd-mm-jjjj: !!!Not translated!!!",
+        "mobileNumber": "mobileNumber: !!!Not translated!!!"
+    }
+}

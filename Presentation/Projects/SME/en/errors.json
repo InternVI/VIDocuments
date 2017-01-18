@@ -1,0 +1,12 @@
+{
+    "error404": {
+        "body": "Maybe you've made a typo or clicked on a link that is outdated. Try navigating to one of these pages:",
+        "link-homepage": "Homepage",
+        "title": "We're sorry, but the page you requested can't be found",
+        "your-account": "Your account"
+    },
+    "error500": {
+        "body+": "Unfortunately, an error has occured preventing you from proceeding.\r\n\r\n\t\tBack to the [homepage](/)",
+        "title": "We're sorry but something went wrong"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "about-ing": {
+        "description+": "La divisione di Retail Banking di ING Bank Italia (www.ing.it), nota con il marchio ING DIRECT (www.ingdirect.it), è attiva nel nostro Paese dal 2001 e oggi è la prima banca on line per numero di clienti (1.100.000) e un volume di attività di oltre 20 miliardi di euro. ING DIRECT offre prodotti semplici e trasparenti a condizioni economiche competitive, attraverso una gamma mirata di prodotti e servizi in grado di soddisfare le principali esigenze di famiglie e risparmiatori: non solo il deposito che l’ha resa famosa, ma anche conti correnti, mutui,investimenti, trading on line, assicurazioni e prestiti personali. L’obiettivo della divisione retail è quello di contribuire attivamente allo sviluppo di un nuovo modo di fare banca, sempre  più digitale e moderna, in linea con le aspettative di una clientela sempre più matura e autonoma e con l’evoluzione tecnologica. ING DIRECT è operativa principalmente attraverso canali digitali (web, app e mobile, social network), che rappresentano il 96% dell’attività di servicing della banca, ma mette anche a disposizione un servizio telefonico, bankshop nelle principali città italiane e una rete di agenti nei più importanti centri commerciali italiani.",
+        "title": "Chi è ING Direct",
+        "usp": {
+            "01": {
+                "description": "Nessun costo o commissione nascosta: questa è la nosta idea di banca online..",
+                "title": "Banca online diretta"
+            },
+            "02": {
+                "description": "Siamo a tua disposizione dal lunedì al venerdì dalle 8.00 alle 20.00 e il sabato dalle 9.00 alle 15.00.",
+                "title": "Helpdesk"
+            },
+            "03": {
+                "description": "Crediamo che una banca online debba essere efficiente ed offrire prodotti semplici da gestire.",
+                "title": "Semplice ed efficiente"
+            },
+            "04": {
+                "description": "Hai a disposizione la tua banca online, sul tuo smartphone o tablet, 7 giorni su 7 dovunque ti trovi.",
+                "title": "Sempre e dovunque"
+            }
+        }
+    },
+    "button": {
+        "apply": "Richiedi il preventivo gratuito",
+        "apply-cta": "Vai",
+        "read-more": "Scopri"
+    },
+    "calculator": {
+        "description": "Commisioni dal {fromPercentage} % al {toPercentage} %. Tuti i costi sono indicativi, richiedi un preventivo per conoscere i costi effettivi",
+        "label": {
+            "fee": "Commissioni",
+            "fee-amount": "Importo delle Commissioni",
+            "initial-fee": "Commissione Iniziale",
+            "loan": "Prestito",
+            "loan-amount": "Importo del Prestito",
+            "month": "Mesi",
+            "total": "Totale"
+        },
+        "title": "Quanto vuoi dare in prestito?"
+    },
+    "introduction": {
+        "description": "Richiedi un Prestito tra 3.000 e 100.000 Euro per le piccole e medie imprese e ricevi l’importo in 24 ore",
+        "subtitle": "In soli 10 minuti avrai una risposta",
+        "title": "Richiedi un Prestito per la tua Impresa"
+    },
+    "key-information": {
+        "description+": "Richiedere un finanziamento per la tua impresa non è semplice e potrebbe non soddisfare le tue attese. Pertanto, noi offriamo un nuovo tipo di finanziamento semplice e comodo che puoi richiedere tutte le volte che vuoi. Ti offriamo la migliore tecnologia utilizzando una piattaforma di analisi digitale per lavoratori autonomi e imprese. In questo modo possiamo offrirti la risposta più veloce e adatta ai tuoi bisogni, la migliore, senza necessità di gestire la tua liquidità con ING DIRECT.",
+        "title": "Il <b>prestito</b> per <b>piccole</b> e <b>medie imprese</b>",
+        "usp": {
+            "01": {
+                "description": "Procedura 100% online, ti diamo una risposta in meno di 10 minuti e solo 48 ore per approvare o rifiutare il prestito.",
+                "title": "Immediato"
+            },
+            "02": {
+                "description": "Per analizzare i dati aggiornati della tua attività e fornire una risposta immediata ti chiederemo solo la password e il numero del principale conto corrente della tua impresa.",
+                "title": "Senza Documenti"
+            },
+            "03": {
+                "description": "Garantisce ING DIRECT. I tuoi dati verrano utilizzati solo per analizzare i tuoi crediti e non saranno condivisi con altre aziende.",
+                "title": "Senza pensieri"
+            },
+            "04": {
+                "description": "Ti presentiamo il massimo limite erogabile per ogni prestito. Da 3.000 fino a 100.000 euro senza atto notarile o avallo di un garante.",
+                "title": "Flessibile"
+            },
+            "05": {
+                "description": "Questo nuovo prodotto ci consente di offrire un tasso di interesse variabile, in funzione delle caratteristiche storiche ed attuali della tua attività.",
+                "title": "Tasso variabile"
+            },
+            "06": {
+                "description": "0% commissioni per rimborso parziale<br/>0% commissione per estinzione totale<br/>1% commissione applicata all’erogazione del prestito.",
+                "title": "Trasparente"
+            }
+        }
+    },
+    "steps": {
+        "label": {
+            "step": "Step"
+        },
+        "step": {
+            "01": {
+                "description": "Inizia con i dettagli della tua azienda. Abbiamo bisogno di questi dati per sapere per quale azienda viene richiesto il prestito.",
+                "title": "Inserisci i dati della tua impresa"
+            },
+            "02": {
+                "description": "Abbiamo bisogno di questi dati per sapere chi gestirà il prestito.",
+                "title": "Inserisci i tuoi dati personali"
+            },
+            "03": {
+                "description": "Abbiamo bisogno di questi dati per conoscere quale impresa utilizzerà il prestito.",
+                "title": "Aggiungi il tuo conto corrente"
+            },
+            "04": {
+                "description": "Firma la richiesta di prestito, le condizioni contrattuali e le informative privacy",
+                "title": "Firma il contratto"
+            },
+            "05": {
+                "description": "In questo modo possiamo cerificare la tua identità a distanza e potrai richiedere il prestito dal tuo computer. Semplice e veloce.",
+                "title": "Carica una foto della tua Carta d'Identità o del Passaporto"
+            },
+            "06": {
+                "description": "Dopo aver compilato tutti i dati richiesti effettueremo un veloce controllo prima dell’approvazione. Appena approvato il prestito, riceverai l’accredito in 24 ore.",
+                "title": "Prestito approvato ed erogato"
+            }
+        },
+        "title": "Cosa devo fare per richiedere un prestito?"
+    }
+}
